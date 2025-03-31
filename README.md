@@ -1,9 +1,12 @@
-<h1 align="center">Hi there👋, I'm Han SeungWoo, a developer who makes fun</h1>
-<h3 align="center">A passionate game client developer from South Korea.</h3>
+### Hi, I'm Han SeungWoo!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-seungwoo&label=Profile%20views&color=0e75b6&style=flat" alt="h-seungwoo" /> </p>
+🧑🏻‍💻 I'm a passionate game client developer from South Korea.<br/>
+🧑🏻‍🎓 I studied computer science at Hanyang University ERICA.<br/>
+🎨 I like creative activities such as composing, video editing, and exercising.<br/>
+🌱 I’m currently learning **UE5, Unity**<br/>
 
-- 🌱 I’m currently learning **UE5, Unity**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-seungwoo&how_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👨‍💻 my portpolio is available at [this Link](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c?pvs=4)
 
