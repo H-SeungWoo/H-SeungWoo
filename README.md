@@ -17,7 +17,7 @@
 <br/>
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <br/>
-[가상공연 플랫폼: Stage On](https://github.com/H-SeungWoo/VirtualIdol) <br/>
+[가상공연 플랫폼: Stage On](https://github.com/H-SeungWoo/VirtualIdol) (🥇제3기 메타버스 성과공유회 장관상 수상작) <br/>
 [메타버스 보컬 트레이닝 플랫폼: 보이스 튜너](https://github.com/MTVS-VoiceTuner/VoiceTuner_Client) <br/>
 [It Takse Two 공구통 보스 모작](https://github.com/H-SeungWoo/ItTakesTwo_copy) <br/>
 [호그와트 레거시 기사 보스 모작](https://github.com/H-SeungWoo/HoguwartsLegacy) <br/>
