@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=false)<br/>
 <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=h-seungwoo&limit=5&theme=vue&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=h-seungwoo&icon=4&color=3)](https://visitcount.itsvg.in)
 
