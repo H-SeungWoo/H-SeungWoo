@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Han SeungWoo!
 🧑🏻‍💻 I'm a passionate game client developer from South Korea.<br>🧑🏻‍🎓 I studied computer science at Hanyang University ERICA.<br>🎨 I like creative activities such as composing, video editing, and exercising.<br>🌱 I’m currently learning UE5, Unity
 <br/>
 
