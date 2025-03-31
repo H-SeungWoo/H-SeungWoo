@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **UE5, Unity**
 
-- 👨‍💻 my portpolio is available at [Click HERE!](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c?pvs=4)
+- 👨‍💻 my portpolio is available at [this Link](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c?pvs=4)
 
-- 📝 I regularly write articles on [Click HERE!][https://velog.io/@tmddn131/posts](https://velog.io/@tmddn131/posts)
+- 📝 I regularly write articles on [this site](https://velog.io/@tmddn131/posts)
 
 - 📫 How to reach me **tmddn_00@naver.com**
 
