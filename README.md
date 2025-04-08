@@ -4,7 +4,7 @@
 🎨 음악, 영상 편집, 운동과 같은 창의적인 활동을 좋아합니다.<br>
 🌱 현재 UE5와 Unity를 공부하고있습니다.<br/>
 
-📑 저의 경력기술서는 [여기](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c)에서 확인 가능합니다. <br/>
+📑 저의 포트폴리오는 [여기](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c)에서 확인 가능합니다. <br/>
 
 <br/>
 
