@@ -1,7 +1,6 @@
 # 💫 안녕하세요, 저는 한승우입니다!
 🧑🏻‍💻 저는 열정적인 게임 클라이언트 개발자입니다.<br>
 🧑🏻‍🎓 한양대학교 ERICA캠퍼스에서 Computer Science를 공부했습니다.<br>
-  - ICT융합학부에서 디자인, 기획, UX등 다양한 학제 간 과목을 수강했습니다.
 🎨 음악, 영상 편집, 운동과 같은 창의적인 활동을 좋아합니다.<br>
 🌱 현재 UE5와 Unity를 공부하고있습니다.<br/>
 
@@ -38,6 +37,7 @@
 ETC
 ---
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
+
 
 <br/>
 
