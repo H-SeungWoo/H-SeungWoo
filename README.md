@@ -45,7 +45,6 @@ ETC
 # 📊 Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=false)<br/>
 <br/>
-[![한승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwchoi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn131)](https://solved.ac/tmddn131/)
 
 # 🌐 Socials:
