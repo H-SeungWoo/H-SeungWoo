@@ -45,7 +45,8 @@ ETC
 # 📊 Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=false)<br/>
 <br/>
-
+[![한승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwchoi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn131)](https://solved.ac/tmddn131/)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_seungwxx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HanSeungWoo-131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tmddn_00@naver.com) 
