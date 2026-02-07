@@ -30,7 +30,7 @@
 [VR버스 시뮬레이션: 안산 1986](https://github.com/H-SeungWoo/Ansan1986) <br/>
 [캠퍼스 탐방 AR앱: 하냥 스토리](https://github.com/H-SeungWoo/HanyangStory) <br/>
 [2D 플랫포머 게임: DeLight](https://github.com/H-SeungWoo/DeLight) <br/>
-[지역문화부흥 프로젝트: VR안동탈춤배우기]() <br/>
+[지역문화부흥 프로젝트: VR안동탈춤배우기](https://github.com/H-SeungWoo/talchum_VR) <br/>
 
 
 <br/>
