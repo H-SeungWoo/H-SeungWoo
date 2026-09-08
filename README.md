@@ -15,8 +15,8 @@ CI/CD, Docker와 AWS EC2를 활용한 배포까지 개발해 왔습니다. <br>
 
 | 프로젝트 | 담당 구현 · 역할 | 바로가기 |
 | :--- | :--- | :---: |
-| **Stage On**<br>UE5 실시간 가상공연장<br>🏆 과학기술정보통신부 장관상 | 멀티클라이언트 음원 재생<br>HTTP · MediaPlayer · RPC<br>Actor Component 리팩터링 | [코드·](https://github.com/H-SeungWoo/VirtualIdol#readme)<br>[영상](https://www.youtube.com/watch?v=JKt8BfGZm_k) |
-| **It Takes Two 모작**<br>공구통 보스전 | 못 발사·박힘·회수 시스템<br>FSM · Object Pooling<br>회수 객체·배열 불일치 해결 | [코드·](https://github.com/H-SeungWoo/ItTakesTwo_copy#readme)<br>[영상](https://www.youtube.com/watch?v=Ag4aGCEbZQQ) |
+| **Stage On**<br>UE5 실시간 가상공연장<br>🏆 과학기술정보통신부 장관상 | 멀티클라이언트 음원 재생<br>HTTP · MediaPlayer · RPC<br>Actor Component 리팩터링 | [레포지토리](https://github.com/H-SeungWoo/VirtualIdol#readme)<br><br>[영상](https://www.youtube.com/watch?v=JKt8BfGZm_k) |
+| **It Takes Two 모작**<br>공구통 보스전 | 못 발사·박힘·회수 시스템<br>FSM · Object Pooling<br>회수 객체·배열 불일치 해결 | [레포지토리](https://github.com/H-SeungWoo/ItTakesTwo_copy#readme)<br><br>[영상](https://www.youtube.com/watch?v=Ag4aGCEbZQQ) |
 | **FIVE ALIBIS**<br>AI 페르소나 웹 추리 게임 | 플레이 흐름 · UI/UX 설계<br>Seed 스토리 생성 기능 개발<br>AI 에이전트 작업·검증 기준 정의 | 🔒 Private |
 
 ## ⚙️ Backend & Infrastructure
@@ -33,8 +33,8 @@ CI/CD, Docker와 AWS EC2를 활용한 배포까지 개발해 왔습니다. <br>
 
 | 프로젝트 | 담당 구현 · 역할 | 바로가기 |
 | :--- | :--- | :---: |
-| **AssetBox**<br>3D 에셋 공유·관리 | ZIP 경로·용량 검증<br>S3 업로드 실패 보상 · 지연 삭제<br>TA 요구사항 인터뷰·중간 검토 | [코드](https://github.com/H-SeungWoo/Asset-Box#readme) |
-| **CHECK-ON**<br>교육 데이터 분석·상담 지원 | Kafka–HTTP Adapter<br>재시도·복구 흐름<br>Docker · CI/CD · EC2 배포 | [코드](https://github.com/H-SeungWoo/CheckOn-backend#readme) |
+| **AssetBox**<br>3D 에셋 공유·관리 | ZIP 경로·용량 검증<br>S3 업로드 실패 보상 · 지연 삭제<br>TA 요구사항 인터뷰·중간 검토 | [레포지토리](https://github.com/H-SeungWoo/Asset-Box#readme) |
+| **CHECK-ON**<br>교육 데이터 분석·상담 지원 | Kafka–HTTP Adapter<br>재시도·복구 흐름<br>Docker · CI/CD · EC2 배포 | [레포지토리](https://github.com/H-SeungWoo/CheckOn-backend#readme) |
 
 ## 📊 GitHub & Algorithm
 
