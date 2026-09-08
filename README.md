@@ -1,84 +1,72 @@
-# 💫 안녕하세요. 저는 열정적인 개발자 한승우입니다!
-🧑🏻‍🎓 한양대학교 ERICA캠퍼스에서 Computer Science를 공부했습니다.<br>
-🎨 음악, 영상 편집, 운동과 같은 창의적인 활동을 좋아합니다.<br>
-🌱 저는 팀과 함께 성장할 수 있는 환경을 중요시 생각합니다. <br/>
-📖 저는 기존 3D 클라이언트 개발 역량을 기반으로 풀스택 개발자가 되기 위해 서버 개발을 공부하고 있습니다.  <br/> <br/>
+# 👋 한승우 | 게임 클라이언트 · 백엔드 개발
 
+Unreal Engine·C++ 기반 콘텐츠부터 서버 연동과 배포까지 개발해 왔습니다.
 
-📑 저의 포트폴리오는 [여기](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c)에서 확인 가능합니다. <br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=notion&logoColor=white)](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tmddn_00@naver.com)
 
-<br/>
+## 🎮 Game Development
 
-## 💻 Tech Stack & Repository:
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/>
-[알고리즘 문제풀이](https://github.com/H-SeungWoo/algorithm_solved)<br/>
+| 프로젝트 | 담당 구현 · 역할 | 바로가기 |
+| :--- | :--- | :---: |
+| **Stage On**<br>UE5 실시간 가상공연장<br>🏆 과학기술정보통신부 장관상 | 멀티클라이언트 음원 재생<br>HTTP · MediaPlayer · RPC<br>Actor Component 리팩터링 | [코드·설명](https://github.com/H-SeungWoo/VirtualIdol#readme)<br>[영상](https://www.youtube.com/watch?v=JKt8BfGZm_k) |
+| **It Takes Two 모작**<br>공구통 보스전 | 못 발사·박힘·회수 시스템<br>FSM · Object Pooling<br>회수 객체·배열 불일치 해결 | [코드·설명](https://github.com/H-SeungWoo/ItTakesTwo_copy#readme)<br>[영상](https://www.youtube.com/watch?v=Ag4aGCEbZQQ) |
+| **FIVE ALIBIS**<br>AI 페르소나 웹 추리 게임 | 플레이 흐름 · UI/UX 설계<br>Seed 사건 생성 개발 참여<br>AI 에이전트 작업·검증 기준 정의 | 🔒 Private |
 
+## ⚙️ Backend & Infrastructure
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_%C2%B7_EC2-232F3E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <br/>
-[가상공연 플랫폼: Stage On](https://github.com/H-SeungWoo/VirtualIdol) (🥇제3기 메타버스 성과공유회 장관상 수상작) <br/>
-[메타버스 보컬 트레이닝 플랫폼: 보이스 튜너](https://github.com/MTVS-VoiceTuner/VoiceTuner_Client) <br/>
-[It Takse Two 공구통 보스 모작](https://github.com/H-SeungWoo/ItTakesTwo_copy) <br/>
-[호그와트 레거시 기사 보스 모작](https://github.com/H-SeungWoo/HoguwartsLegacy) <br/>
+| 프로젝트 | 담당 구현 · 역할 | 바로가기 |
+| :--- | :--- | :---: |
+| **AssetBox**<br>3D 에셋 공유·관리 | ZIP 경로·용량 검증<br>S3 업로드 실패 보상 · 지연 삭제<br>TA 요구사항 인터뷰·중간 검토 | [코드·설명](https://github.com/H-SeungWoo/Asset-Box#readme) |
+| **CHECK-ON**<br>교육 데이터 분석·상담 지원 | Kafka–HTTP Adapter<br>재시도·복구 흐름<br>Docker · CI/CD · EC2 배포 | [백엔드·배포](https://github.com/H-SeungWoo/CheckOn-backend#readme) |
 
+## 📊 GitHub & Algorithm
 
-<br/>
+<p align="center">
+  <a href="https://github.com/H-SeungWoo"><img width="54%" src="https://github-stats-extended.vercel.app/api?username=H-SeungWoo&show_icons=true&theme=vue&hide_border=true&hide_rank=true" alt="GitHub 통계 — 커밋, PR, 이슈 등" /></a>
+  <a href="https://solved.ac/tmddn131/"><img width="44%" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn131" alt="백준 Solved.ac 티어" /></a>
+</p>
+<p align="center">
+  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=true" alt="GitHub 연속 기여 기록" />
+</p>
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) <br/>
-[VR버스 시뮬레이션: 안산 1986](https://github.com/H-SeungWoo/Ansan1986) <br/>
-[캠퍼스 탐방 AR앱: 하냥 스토리](https://github.com/H-SeungWoo/HanyangStory) <br/>
-[2D 플랫포머 게임: DeLight](https://github.com/H-SeungWoo/DeLight) <br/>
-[지역문화부흥 프로젝트: VR안동탈춤배우기](https://github.com/H-SeungWoo/talchum_VR) <br/>
+[📘 알고리즘 문제풀이 기록](https://github.com/H-SeungWoo/algorithm_solved)
 
+<details>
+<summary>📂 이전 프로젝트</summary>
 
-<br/>
+| 프로젝트 | 내용 |
+| --- | --- |
+| [Hanyang Story](https://github.com/H-SeungWoo/HanyangStory) | Unity·C# 기반 AR 캠퍼스 투어 |
+| [보이스 튜너](https://github.com/MTVS-VoiceTuner/VoiceTuner_Client) | 메타버스 보컬 트레이닝 플랫폼 |
+| [호그와트 레거시 모작](https://github.com/H-SeungWoo/HoguwartsLegacy) | 기사 보스전 모작 |
+| [안산 1986](https://github.com/H-SeungWoo/Ansan1986) | VR 버스 시뮬레이션 |
+| [DeLight](https://github.com/H-SeungWoo/DeLight) | 2D 플랫포머 게임 |
+| [VR 안동탈춤 배우기](https://github.com/H-SeungWoo/talchum_VR) | 지역문화 VR 콘텐츠 |
 
-ETC
----
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
+</details>
 
+<details>
+<summary>🎨 Design & Creative Tools</summary>
 
-<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge)
 
-# 📊 Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=false)<br/>
-<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn131)](https://solved.ac/tmddn131/)
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seungwoo.2000)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tmddn_00@naver.com) 
-
-
-
-[![](https://visitcount.itsvg.in/api?id=h-seungwoo&icon=4&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
-# 💫 Hi, I'm Han SeungWoo!
-🧑🏻‍💻 I'm a passionate game client developer from South Korea.<br>🧑🏻‍🎓 I studied computer science at Hanyang University ERICA.<br>🎨 I like creative activities such as composing, video editing, and exercising.<br>🌱 I’m currently learning UE5, Unity
-<br/>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_seungwxx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HanSeungWoo-131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tmddn_00@naver.com) 
-<br/>
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<br/>
-# 📊 Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=h-seungwoo&theme=vue&hide_border=false)<br/>
-<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=h-seungwoo&icon=4&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
