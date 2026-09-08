@@ -1,6 +1,8 @@
 # 한승우 | 게임 클라이언트 · 백엔드 개발
 
-Unreal Engine·C++ 기반 콘텐츠부터 서버 연동과 배포까지 개발해 왔습니다.
+Unreal Engine·C++ 기반 콘텐츠부터
+JAVA/SPRING 기반 서버 개발 및
+CI/CD, Docker와 AWS EC2를 활용한 배포까지 개발해 왔습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=notion&logoColor=white)](https://gratis-chinchilla-441.notion.site/Han-SeungWoo-1c7b37a2584b808bbf48fb8c086d126c) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tmddn_00@naver.com)
 
